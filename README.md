@@ -42,16 +42,14 @@ era-11: Has the usage notebook (minimal) and README and log files
 
 ## Training
 Run for 20 epochs with LR of 0.01 and Batch size of 512
-Suggested LR: 2.78E-04
+Suggested LR: 2.54E-04
 
-
-###Metrics
 ![Alt log](training-log.png)
 
 
-###Misclassified images
+## Misclassified images
 ![Alt log](misclassified.png)
 
 
-###Grad Cam
+## Grad Cam
 ![Alt log](gradcam.png)
